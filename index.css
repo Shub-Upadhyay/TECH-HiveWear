@@ -1,0 +1,48 @@
+p.navbar-brand {
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-weight: bolder;
+    /* position: absolute; */
+}
+
+/* div {
+    position:absolute;
+    bottom: 10vh;
+} */
+ /* Commenting below brings navbar back */
+.text-offers{
+    font-size: 5rem;
+    /* position: absolute; */
+    position: relative;
+    bottom: 250vh;
+    text-align: center;
+}
+
+.text-good-offers{
+    font-size: 5rem;
+    text-align: center;
+    color: white;
+    background-color: black;
+    position: relative;
+    bottom: 32.5vh;
+}
+
+
+
+/* .text-good-offers {
+        position: relative;
+        bottom: -167vh;
+        font-size: 3rem;
+        text-align: center;
+        background-color: black;
+        color: wheat;
+} */
+
+
